@@ -44,8 +44,8 @@ yarn dev
 pnpm dev
 ```
 
-> **Note**: if use pnpm, then run: `pnpm approve-builds` and install sharp script.
-> **Note Tiptap Error**: SSR has been detected, please set `immediatelyRender` explicitly to `false` to avoid hydration mismatches.
+> **Note**: if use pnpm, then run: `pnpm approve-builds` and install sharp script.\
+**Note Tiptap Error**: SSR has been detected, please set `immediatelyRender` explicitly to `false` to avoid hydration mismatches.
 
 Open http://localhost:3000 in your browser
 
