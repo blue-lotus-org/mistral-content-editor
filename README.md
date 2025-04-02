@@ -24,7 +24,7 @@ A modern, feature-rich content editing platform enhanced with Mistral AI capabil
 
 **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-content-editor.git
+git clone https://github.com/blue-lotus-org/mistral-content-editor.git
 cd ai-content-editor
 ```
 
