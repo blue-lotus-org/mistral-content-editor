@@ -52,13 +52,13 @@ Open http://localhost:3000 in your browser
 ---
 
 🛠️ **Built With**
-- Next.js - React framework
-- Tiptap - Headless editor framework
-- Radix UI - Unstyled, accessible UI components
-- Tailwind CSS - Utility-first CSS framework
-- Mistral AI - AI language model integration
-- React Hook Form - Form state management
-- Zod - TypeScript-first schema validation
+- **Next.js** - React framework
+- **Tiptap** - Headless editor framework
+- **Radix UI** - Unstyled, accessible UI components
+- **Tailwind CSS** - Utility-first CSS framework
+- **Mistral AI** - AI language model integration
+- **React Hook Form** - Form state management
+- **Zod** - TypeScript-first schema validation
 
 📖 **Usage**\
 The editor provides an intuitive interface for creating and editing content with AI assistance:
